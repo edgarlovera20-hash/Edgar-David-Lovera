@@ -1,0 +1,534 @@
+{
+  "candidates": [
+    {
+      "id": "cand-1",
+      "name": "Diego Lozano",
+      "phone": "+52 55 4321 8765",
+      "email": "diego.lozano@gmail.com",
+      "age": 28,
+      "vacancyId": "vac-1",
+      "experience": "3 años en ventas departamentales en Liverpool. Atento a clientes, cierre de contratos de alto valor.",
+      "status": "entrevista",
+      "source": "Facebook Ads",
+      "recruiter": "Sofía Ruiz",
+      "date": "2026-07-10",
+      "interviewDate": "2026-07-13T10:00:00",
+      "observations": "Candidato muy entusiasta. Excelente presentación y facilidad de palabra. Busca estabilidad y crecimiento.",
+      "documents": {
+        "cv": "aprobado",
+        "ine": "aprobado",
+        "domicilio": "pendiente",
+        "curp": "aprobado"
+      },
+      "psychoAnalysis": {
+        "personality": "Extrovertido y Altamente Persuasivo",
+        "compatibility": 92,
+        "traits": [
+          {
+            "label": "Extroversión",
+            "value": 90
+          },
+          {
+            "label": "Empatía",
+            "value": 85
+          },
+          {
+            "label": "Persuasión",
+            "value": 95
+          },
+          {
+            "label": "Tolerancia a la frustración",
+            "value": 80
+          }
+        ],
+        "notes": "Diego muestra un perfil ideal para ventas de gama alta. Utiliza lenguaje empático y es rápido para rebatir objeciones de manera amable."
+      },
+      "evaluation": {
+        "technicalScore": 88,
+        "behavioralScore": 94,
+        "grade": "Sobresaliente",
+        "feedback": "Muestra gran entendimiento de técnicas de venta consultiva. Recomendado para contratación inmediata post-entrevista."
+      }
+    },
+    {
+      "id": "cand-2",
+      "name": "Mariana Torres",
+      "phone": "+52 55 9876 5432",
+      "email": "mariana.torres@outlook.com",
+      "age": 24,
+      "vacancyId": "vac-3",
+      "experience": "1 año en atención telefónica de aclaraciones en Santander. Trato con clientes difíciles.",
+      "status": "contactado",
+      "source": "Indeed",
+      "recruiter": "Sofía Ruiz",
+      "date": "2026-07-11",
+      "documents": {
+        "cv": "aprobado",
+        "ine": "pendiente",
+        "domicilio": "pendiente",
+        "curp": "pendiente"
+      }
+    },
+    {
+      "id": "cand-3",
+      "name": "Carlos Mendoza",
+      "phone": "+52 55 1234 5678",
+      "email": "carlos.mendoza@yahoo.com",
+      "age": 33,
+      "vacancyId": "vac-2",
+      "experience": "5 años supervisando almacén de refacciones automotrices. Manejo de montacargas e inventarios SAP.",
+      "status": "precalificado",
+      "source": "LinkedIn",
+      "recruiter": "Sistemas IA",
+      "date": "2026-07-09",
+      "observations": "Maneja ERP y lideró equipo de 12 personas. Estable laboralmente.",
+      "documents": {
+        "cv": "aprobado",
+        "ine": "aprobado",
+        "domicilio": "aprobado",
+        "curp": "aprobado"
+      },
+      "psychoAnalysis": {
+        "personality": "Metódico y Orientado a Resultados",
+        "compatibility": 85,
+        "traits": [
+          {
+            "label": "Organización",
+            "value": 92
+          },
+          {
+            "label": "Liderazgo",
+            "value": 80
+          },
+          {
+            "label": "Estabilidad emocional",
+            "value": 88
+          },
+          {
+            "label": "Trabajo bajo presión",
+            "value": 85
+          }
+        ],
+        "notes": "Carlos es sumamente estructurado. Ideal para el control exacto de almacén y cumplimiento estricto de lineamientos de seguridad."
+      }
+    }
+  ],
+  "vacancies": [
+    {
+      "id": "vac-1",
+      "title": "Asesor de Descanso Premium",
+      "salary": "$15,000 MXN + Comisiones sin tope",
+      "hours": "Lunes a Domingo, de 11:00 AM a 8:00 PM (1 día de descanso entre semana)",
+      "benefits": [
+        "Prestaciones de Ley desde el primer día",
+        "Seguro de Gastos Médicos Mayores",
+        "Vales de Despensa",
+        "Capacitación pagada de alta gama"
+      ],
+      "requirements": [
+        "Bachillerato concluido",
+        "Mínimo 1-2 años en ventas retail de lujo o comisionistas",
+        "Excelente presentación y facilidad de palabra",
+        "Gusto por la atención personalizada"
+      ],
+      "experienceRequired": "Ventas de gama alta, atención al cliente face-to-face",
+      "location": "Polanco, Ciudad de México",
+      "openPositions": 3,
+      "screeningQuestions": [
+        "¿Tienes experiencia comisionando en ventas de retail o productos premium?",
+        "¿Te queda bien la zona de trabajo de Polanco?",
+        "¿Tienes disponibilidad de horario completo de lunes a domingo con descanso entre semana?"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "vac-2",
+      "title": "Supervisor de Almacén",
+      "salary": "$18,000 MXN Netos mensuales",
+      "hours": "Turnos rotativos de 8 horas (Mañana/Tarde/Noche)",
+      "benefits": [
+        "Prestaciones superiores",
+        "Fondo de ahorro 10%",
+        "Seguro de vida",
+        "Servicio de comedor"
+      ],
+      "requirements": [
+        "Carrera técnica o Licenciatura trunca",
+        "Experiencia mínima de 3 años en control de almacén e inventarios",
+        "Manejo indispensable de SAP o ERP similar",
+        "Experiencia liderando personal operativo"
+      ],
+      "experienceRequired": "Supervisión de almacén, inventarios cíclicos, ERP",
+      "location": "Vallejo, Ciudad de México",
+      "openPositions": 1,
+      "screeningQuestions": [
+        "¿Cuántos años de experiencia tienes liderando personal en almacén?",
+        "¿Qué sistema ERP o SAP has utilizado para inventarios?",
+        "¿Tienes algún problema con rolar los 3 turnos?"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "vac-3",
+      "title": "Ejecutivo Telefónico de ATC",
+      "salary": "$10,000 MXN + Bonos de puntualidad",
+      "hours": "Medio tiempo - Turno Matutino (8 AM a 2 PM) o Vespertino (2 PM a 8 PM)",
+      "benefits": [
+        "Sueldo base garantizado",
+        "Comisiones por retención",
+        "Apoyo de transporte",
+        "Becas universitarias"
+      ],
+      "requirements": [
+        "Preparatoria terminada o en curso",
+        "Gusto por la atención al cliente y retención",
+        "Facilidad de palabra y excelente ortografía",
+        "Manejo básico de PC"
+      ],
+      "experienceRequired": "Servicio al cliente o call center mínimo 6 meses",
+      "location": "Condesa, Ciudad de México (Esquema Híbrido)",
+      "openPositions": 5,
+      "screeningQuestions": [
+        "¿Prefieres el turno matutino o vespertino?",
+        "¿Tienes experiencia previa en atención al cliente vía telefónica?",
+        "¿Cuentas con computadora e internet en casa para el esquema híbrido?"
+      ],
+      "status": "active"
+    }
+  ],
+  "flows": {
+    "nodes": [
+      {
+        "id": "node-start",
+        "type": "start",
+        "label": "Inicio: Candidato Contacta",
+        "x": 80,
+        "y": 180,
+        "config": {}
+      },
+      {
+        "id": "node-msg-welcome",
+        "type": "message",
+        "label": "Enviar Saludo y Vacantes",
+        "x": 280,
+        "y": 180,
+        "config": {
+          "message": "¡Hola! Qué gusto saludarte. Soy Sofía, reclutadora experta de Heavenly Dreams. 💤✨ Te escribo para platicarte de nuestras vacantes disponibles. ¿De qué ciudad me escribes y cuál es tu nombre?"
+        }
+      },
+      {
+        "id": "node-question-exp",
+        "type": "question",
+        "label": "Preguntar por Experiencia",
+        "x": 480,
+        "y": 180,
+        "config": {
+          "question": "Perfecto. Platícame un poquito, ¿has tenido experiencia previa en puestos de ventas o atención al cliente? Cuéntame de tus últimos trabajos."
+        }
+      },
+      {
+        "id": "node-ai-eval",
+        "type": "ia",
+        "label": "Análisis del Perfil (Reclutador IA)",
+        "x": 680,
+        "y": 180,
+        "config": {
+          "prompt": "Analiza la experiencia del candidato, su edad y disponibilidad. Compara contra los requisitos de 'Asesor de Descanso Premium', 'Supervisor de Almacén' o 'Ejecutivo de ATC'. Clasifica si es apto."
+        }
+      },
+      {
+        "id": "node-cond-fit",
+        "type": "condition",
+        "label": "¿Cumple Requisitos?",
+        "x": 880,
+        "y": 180,
+        "config": {
+          "criteria": "Si es apto, pasar a agendar entrevista. Si no, rechazar amablemente o sugerir otra bolsa."
+        }
+      },
+      {
+        "id": "node-calendar-schedule",
+        "type": "calendar",
+        "label": "Scheduler: Agendar Entrevista",
+        "x": 1080,
+        "y": 100,
+        "config": {
+          "calendarId": "primary",
+          "duration": 30
+        }
+      },
+      {
+        "id": "node-gmail-reject",
+        "type": "gmail",
+        "label": "Gmail: Correo de Agradecimiento",
+        "x": 1080,
+        "y": 260,
+        "config": {
+          "subject": "Estatus de tu postulación - Heavenly Dreams",
+          "body": "Agradecemos mucho tu tiempo..."
+        }
+      },
+      {
+        "id": "node-end",
+        "type": "end",
+        "label": "Finalizar Flujo",
+        "x": 1300,
+        "y": 180,
+        "config": {}
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge-1",
+        "source": "node-start",
+        "target": "node-msg-welcome"
+      },
+      {
+        "id": "edge-2",
+        "source": "node-msg-welcome",
+        "target": "node-question-exp"
+      },
+      {
+        "id": "edge-3",
+        "source": "node-question-exp",
+        "target": "node-ai-eval"
+      },
+      {
+        "id": "edge-4",
+        "source": "node-ai-eval",
+        "target": "node-cond-fit"
+      },
+      {
+        "id": "edge-5",
+        "source": "node-cond-fit",
+        "target": "node-calendar-schedule",
+        "label": "Apto"
+      },
+      {
+        "id": "edge-6",
+        "source": "node-cond-fit",
+        "target": "node-gmail-reject",
+        "label": "No Apto"
+      },
+      {
+        "id": "edge-7",
+        "source": "node-calendar-schedule",
+        "target": "node-end"
+      },
+      {
+        "id": "edge-8",
+        "source": "node-gmail-reject",
+        "target": "node-end"
+      }
+    ]
+  },
+  "chatMessages": [
+    {
+      "id": "m1",
+      "candidateId": "cand-1",
+      "sender": "bot",
+      "text": "¡Hola! Qué gusto saludarte. Soy Sofía, reclutadora experta de Heavenly Dreams. 💤✨ Vi que te postulaste para nuestra vacante de Asesor de Descanso Premium en Polanco. ¿Me regalas tu nombre completo?",
+      "timestamp": "2026-07-10T11:00:00",
+      "type": "text"
+    },
+    {
+      "id": "m2",
+      "candidateId": "cand-1",
+      "sender": "candidate",
+      "text": "Hola Sofía, ¡claro! Soy Diego Lozano. Un placer.",
+      "timestamp": "2026-07-10T11:02:00",
+      "type": "text"
+    },
+    {
+      "id": "m3",
+      "candidateId": "cand-1",
+      "sender": "bot",
+      "text": "¡Qué tal, Diego! El gusto es mío. Oye, platícame un poco, ¿has tenido experiencia en ventas consultivas o retail? ¿Cuáles eran tus actividades?",
+      "timestamp": "2026-07-10T11:03:00",
+      "type": "text"
+    },
+    {
+      "id": "m4",
+      "candidateId": "cand-1",
+      "sender": "candidate",
+      "text": "Sí, trabajé 3 años en Liverpool en el área de colchones y blancos de lujo. Me encargaba de asesorar al cliente, cierres de ventas difíciles y dar seguimiento de entrega.",
+      "timestamp": "2026-07-10T11:05:00",
+      "type": "text"
+    },
+    {
+      "id": "m5",
+      "candidateId": "cand-1",
+      "sender": "bot",
+      "text": "¡Órale, qué buena onda! Justo lo que buscamos. 🛋️ Polanco te queda bien para trasladarte? ¿Y cómo andas de disponibilidad para trabajar fines de semana con descanso entre semana?",
+      "timestamp": "2026-07-10T11:06:00",
+      "type": "text"
+    },
+    {
+      "id": "m6",
+      "candidateId": "cand-1",
+      "sender": "candidate",
+      "text": "Sí, vivo cerca del metro San Joaquín, así que Polanco me queda súper rápido. De la disponibilidad no tengo problema, sé que en ventas el fin de semana es lo mejor.",
+      "timestamp": "2026-07-10T11:08:00",
+      "type": "text"
+    },
+    {
+      "id": "m7",
+      "candidateId": "cand-1",
+      "sender": "bot",
+      "text": "¡Perfecto, Diego! Tienes toda la actitud de un comisionista de Heavenly Dreams. 🤩 Déjame agendarte una entrevista con nuestro Gerente de Tienda. ¿Te parece bien el lunes 13 de Julio a las 10:00 AM?",
+      "timestamp": "2026-07-10T11:10:00",
+      "type": "text"
+    },
+    {
+      "id": "m8",
+      "candidateId": "cand-1",
+      "sender": "candidate",
+      "text": "Sí, me parece perfecto. Ahí estaré puntual.",
+      "timestamp": "2026-07-10T11:12:00",
+      "type": "text"
+    }
+  ],
+  "agents": [
+    {
+      "id": "agent-recruiter",
+      "name": "Reclutador IA",
+      "role": "Contacto & Filtro Conversacional",
+      "avatar": "👩‍💼",
+      "description": "Inicia la conversación como Sofía, una reclutadora mexicana con 15 años de experiencia. Cálida, natural y sumamente persuasiva.",
+      "systemInstruction": "Te llamas Sofía, eres una reclutadora experta con 15 años de experiencia trabajando para Heavenly Dreams. Hablas de forma sumamente natural, fluida, simulando ser un ser humano mexicano por WhatsApp. Utilizas saludos variados y expresiones cordiales mexicanas como '¡Qué milagro!', 'Órale', 'Súper bien', 'Perfecto'. Evitas sonar robótica o dar respuestas de tipo plantilla. Tu meta es conocer los detalles del candidato (nombre, edad, experiencia laboral reciente, disponibilidad de traslado) de forma amena, guiándolo hacia la vacante que mejor le acomode. Recuerda siempre el contexto conversacional.",
+      "promptTemplate": "Candidato: {candidateName}\nVacante interesada: {vacancyTitle}\nMensaje previo candidato: {lastMessage}\nHistorial de conversación: {history}\n\nGenera una respuesta natural, empática y persuasiva como Sofía de Heavenly Dreams.",
+      "stats": {
+        "calls": 142,
+        "accuracy": 96
+      }
+    },
+    {
+      "id": "agent-scheduler",
+      "name": "Scheduler IA",
+      "role": "Coordinación de Agendas",
+      "avatar": "📅",
+      "description": "Monitorea la disponibilidad del reclutador en Google Calendar y propone/confirma horarios de entrevista al candidato de manera inteligente.",
+      "systemInstruction": "Eres el Scheduler de Heavenly Dreams. Tu objetivo es proponer horarios disponibles para la entrevista del candidato de forma clara. Si el candidato pide reagendar, buscas opciones amables. Al confirmar, envías la invitación al calendario.",
+      "promptTemplate": "Candidato: {candidateName}\nVacante: {vacancyTitle}\nHorario propuesto: {proposedTime}\n\nGenera un mensaje de WhatsApp confirmando la entrevista e indicando dirección exacta.",
+      "stats": {
+        "calls": 89,
+        "accuracy": 98
+      }
+    },
+    {
+      "id": "agent-analyst",
+      "name": "Analista IA",
+      "role": "Análisis de Datos & Métricas",
+      "avatar": "📊",
+      "description": "Revisa el rendimiento del funnel de reclutamiento y calcula KPIs en tiempo real para Google Sheets.",
+      "systemInstruction": "Eres el Analista IA de Heavenly Dreams. Tu rol es analizar las tasas de conversión del embudo de contratación, el rendimiento de las vacantes y la efectividad de cada canal.",
+      "promptTemplate": "Datos: {metricsData}\nPregunta: {question}\n\nGenera un análisis sintético del embudo de conversión y oportunidades de mejora.",
+      "stats": {
+        "calls": 34,
+        "accuracy": 94
+      }
+    },
+    {
+      "id": "agent-supervisor",
+      "name": "Supervisor IA",
+      "role": "Control de Calidad",
+      "avatar": "👁️",
+      "description": "Audita las conversaciones de los bots de IA para asegurar cumplimiento de políticas internas y calidad humana.",
+      "systemInstruction": "Eres el Supervisor IA. Auditas conversaciones, identificas si el bot sonó frío o descortés y dejas notas para entrenamiento.",
+      "promptTemplate": "Chat: {chatLogs}\n\nIdentifica desvíos de políticas, lenguaje robótico y genera calificación de calidez (0-100).",
+      "stats": {
+        "calls": 110,
+        "accuracy": 97
+      }
+    },
+    {
+      "id": "agent-psychologist",
+      "name": "Psicólogo IA",
+      "role": "Análisis Psicolingüístico",
+      "avatar": "🧠",
+      "description": "Analiza el lenguaje del candidato para deducir rasgos de personalidad, honestidad y adecuación cultural.",
+      "systemInstruction": "Eres el Psicólogo IA de Heavenly Dreams. Analizas las respuestas escritas por el candidato para evaluar su nivel de extroversión, tolerancia a la frustración, y honestidad, proporcionando una puntuación de compatibilidad con puestos comerciales.",
+      "promptTemplate": "Respuestas candidato: {candidateText}\n\nGenera un análisis psicolingüístico estructurado con porcentajes de rasgos principales.",
+      "stats": {
+        "calls": 64,
+        "accuracy": 91
+      }
+    },
+    {
+      "id": "agent-evaluator",
+      "name": "Evaluador IA",
+      "role": "Calificación Técnica",
+      "avatar": "📝",
+      "description": "Evalúa los conocimientos y respuestas de filtrado técnico para calificar el nivel de aptitud real de los candidatos.",
+      "systemInstruction": "Eres el Evaluador IA de Heavenly Dreams. Evalúas la experiencia técnica, dominio de herramientas o ERPs, conocimiento del mercado retail de descanso y servicio postventa.",
+      "promptTemplate": "Perfil técnico candidato: {experienceText}\nPreguntas de filtro contestadas: {answers}\n\nGenera calificación de 0 a 100 y retroalimentación técnica.",
+      "stats": {
+        "calls": 51,
+        "accuracy": 93
+      }
+    }
+  ],
+  "workspaceSettings": {
+    "driveConnected": true,
+    "sheetsConnected": true,
+    "calendarConnected": true,
+    "gmailConnected": false,
+    "docsConnected": true,
+    "mapsConnected": true,
+    "contactsConnected": false
+  },
+  "automationSettings": {
+    "confirmInterviews": true,
+    "autoReminders": true,
+    "requestMissingDocs": true,
+    "detectDuplicates": true,
+    "matchBestVacancy": true,
+    "dailyReports": false
+  },
+  "interviewSchedule": {
+    "allowedDays": [
+      "lunes",
+      "martes",
+      "miercoles",
+      "jueves",
+      "viernes"
+    ],
+    "startTime": "09:00",
+    "endTime": "18:00",
+    "slotDuration": 30,
+    "customSlots": [
+      {
+        "id": "slot-1",
+        "dateTime": "2026-07-13T10:00:00",
+        "available": false,
+        "candidateName": "Diego Lozano",
+        "candidateId": "cand-1"
+      },
+      {
+        "id": "slot-2",
+        "dateTime": "2026-07-13T11:00:00",
+        "available": true
+      },
+      {
+        "id": "slot-3",
+        "dateTime": "2026-07-13T14:00:00",
+        "available": true
+      },
+      {
+        "id": "slot-4",
+        "dateTime": "2026-07-14T09:30:00",
+        "available": true
+      },
+      {
+        "id": "slot-5",
+        "dateTime": "2026-07-14T11:00:00",
+        "available": true
+      },
+      {
+        "id": "slot-6",
+        "dateTime": "2026-07-15T16:00:00",
+        "available": true
+      }
+    ]
+  }
+}

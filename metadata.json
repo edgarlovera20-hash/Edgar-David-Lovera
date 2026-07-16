@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment AI OS",
+  "description": "Chatbot autónomo de reclutamiento inteligente para Heavenly Dreams con CRM, constructor de flujos, y agentes de IA especializados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "recruitment-ai-os",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "C:\\Users\\EDGARL~1\\AppData\\Local\\Temp\\claude\\C--Users-Edgar-Lovera-OneDrive-Desktop-Edgar-David-Lovera-main\\47017d68-eaa7-4eda-b544-e7bfc94fc91d\\scratchpad\\rai", "run", "dev"],
+      "port": 3000
+    }
+  ]
+}
